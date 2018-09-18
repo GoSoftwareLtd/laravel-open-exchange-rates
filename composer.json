@@ -1,0 +1,20 @@
+{
+    "name": "equentor/laravel-open-exchange-rates",
+    "description": "Package for interaction with Open Exchange Rates API.",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "equentor",
+            "email": "myazin.dmitry@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Equentor\\LaravelOpenExchangeRates\\": "src/"
+        }
+    }
+}
